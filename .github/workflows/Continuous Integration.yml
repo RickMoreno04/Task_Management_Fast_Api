@@ -7,7 +7,7 @@ on:
     branches: [main]
 
 jobs:
-  test:
+  Continuous_Integration_Workflow:
     runs-on: ubuntu-latest
 
     steps:
